@@ -1,5 +1,5 @@
 # Calculador de Preços
-# Por Taiara Regis
+# Por Taiiara
 
 from time import sleep
 
